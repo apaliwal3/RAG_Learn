@@ -10,6 +10,7 @@ ragvenv/
 # Project data artifacts
 data/pdf/
 data/vector_store/
+faiss_store/
 
 # Python cache/build artifacts
 __pycache__/
